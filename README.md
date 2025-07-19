@@ -1,16 +1,62 @@
-# ai_chatbot
+<h1 align="center" id="title">Ollama Chatbot</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/hastik07/Ollama-Chatbot-App/image?custom_language=Flutter&font=JetBrains+Mono&language=1&logo=https%3A%2F%2Follama.com%2Fpublic%2Fassets%2Fc889cc0d-cb83-4c46-a98e-0d0e273151b9%2F42f6b28d-9117-48cd-ac0d-44baaf5c178e.png&name=1&owner=1&theme=Light" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Ollama Chatbot App is a cross-platform AI chatbot application built with Flutter. Designed for a modern dark-themed user experience this app lets users interact with an AI assistant in a conversational interface.</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/hastik07/Ollama-Chatbot-App/blob/main/assets/screenshot/1.png" alt="project-screenshot" width="300" height="600/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+  
+<h2>🧐 Features</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here're some of the project's best features:
+
+*   Responsive chat interface with support for multi-platform deployment (Windows Linux Web and more via Flutter)
+*   State management using Provider for dynamic chat experiences
+*   Customizable dark UI theme for comfortable long-term use
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Prerequisites</p>
+
+```
+[Flutter SDK](https://docs.flutter.dev/get-started/install) - Dart (usually included with Flutter) - Git
+```
+
+<p>2. Clone the repository</p>
+
+```
+git clone https://github.com/hastik07/Ollama-Chatbot-App.git
+```
+
+<p>3. Install dependencies</p>
+
+```
+flutter pub get
+```
+
+<p>4. Run the app</p>
+
+```
+flutter run
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Flutter
+*   Dart
+*   Android Studio
+*   Ollama
+*   llama 3 Model
+*   Provider
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
